@@ -20,8 +20,6 @@ Check your response for numerical and logical consistency. < I hate correcting y
 
 What should ChatGPT call you? Alexander J. Akbar
 
-What do you do? CEO of OpenAI
-
 memory: off
 
-personality: Nerd
+base style and tone: Professional
